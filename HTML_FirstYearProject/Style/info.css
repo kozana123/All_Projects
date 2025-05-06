@@ -1,0 +1,242 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Secular+One&display=swap');
+@import url(/Style/header.css);
+@import url(/Style/reset.css);
+@import url(/Style/var.css);
+@import url(/Style/chat.css);
+
+@media (width < 700px){
+    .body{
+
+        font-family: var(--ff);
+        font-weight: var(--fw);
+        font-style: var(--fs);
+        background-size: cover; 
+        background-color: rgb(231, 214, 188);
+        
+    }
+    
+    .grid{
+        display: grid;   
+    }
+    
+    a{
+        text-decoration: none;   
+    }
+    
+    
+    #title{
+     width: 100%;
+     height: 250px;
+    }
+    
+    .title{
+        color: rgb(61, 34, 0);
+        position: absolute;
+        font-size:35px;
+        font-weight:700;  
+        letter-spacing:1px; 
+        text-align:center;
+        width:210px;
+        top: 8rem;
+        right: 1rem;
+        
+    }
+    
+    .title:before{
+        background-color: rgb(121, 113, 0);
+        content: "";
+        display: block;
+        height: 4px;
+        width: 90px;
+       
+        
+    }
+    
+    .title:after{
+        background-color: rgb(121, 113, 0);
+        content: '';
+        display: block;
+        position:absolute; right:0; bottom:0;
+        height: 4px;
+        width: 90px;
+        margin-bottom: -7px;
+    }
+    
+    .nav{
+        margin: 0 5%;
+        direction: rtl;
+     }
+    
+    .tamplate{
+        position: relative;
+        gap: 2%;
+    
+    }
+    .article{
+        width: 100%;
+        height: 100%;
+    }
+    
+    .img{
+        
+        width: 100%;
+        height: 100%;
+        border-radius: 10px;
+        object-fit: cover;
+    }
+    
+    
+    .h2{
+       color: rgb(156, 107, 0);
+       margin: 3% 5%;
+       font-size: 20px;
+       font-weight:700;
+        
+    }
+    
+    .h3{
+        color: rgb(156, 107, 0);
+       margin: 3% 5%;
+       font-size: 17px;
+    }
+    
+    .p{
+        margin: 3% 5%; 
+        color: rgb(75, 51, 0);
+        font-size: 15px;
+        cursor: default;
+    }
+    
+    #space{
+        width: 100%;
+        height: 200px;
+    }
+
+
+}
+
+
+@media (width >= 700px){
+
+.body{
+
+    font-family: var(--ff);
+    font-weight: var(--fw);
+    font-style: var(--fs);
+    background-size: cover; 
+    background-color: rgb(231, 214, 188);
+    
+}
+
+.grid{
+    display: grid;   
+}
+
+a{
+    text-decoration: none;   
+}
+
+
+#title{
+ width: 100%;
+ height: 300px;
+}
+
+.title{
+    color: rgb(61, 34, 0);
+    position: absolute;
+    font-size:45px;
+    font-weight:700;  
+    letter-spacing:1px; 
+    text-align:center;
+    width:248px;
+    margin:7% 80%;
+}
+
+.title:before{
+    background-color: rgb(121, 113, 0);
+    content: "";
+    display: block;
+    height: 4px;
+    width: 90px;
+   
+    
+}
+
+.title:after{
+    background-color: rgb(121, 113, 0);
+    content: '';
+    display: block;
+    position:absolute; right:0; bottom:0;
+    height: 4px;
+    width: 90px;
+    margin-bottom: -7px
+}
+
+.nav{
+    margin: 0 5%;
+    direction: rtl;
+ }
+
+.tamplate{
+    position: relative;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 60px;
+
+}
+.article{
+    width: 100%;
+    height: 100%;
+}
+
+.img{
+    
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+.img:hover{
+    transition: linear 0.25s;
+    filter:brightness(70%)
+}
+
+.h2{
+   color: rgb(156, 107, 0);
+   margin: 3% 5%;
+   font-size: 30px;
+   font-weight:700;
+    
+}
+
+.h3{
+    color: rgb(156, 107, 0);
+   margin: 3% 5%;
+   font-size: 20px;
+}
+
+.p{
+    margin: 3% 5%; 
+    color: rgb(75, 51, 0);
+    font-size: 17px;
+    cursor: default;
+}
+
+.h2:hover{
+    color: rgb(136, 0, 41);
+}
+
+div:has(.h2:hover) .img{
+    transition: linear 0.25s;
+    filter:brightness(70%)
+}
+.h3:hover{
+    color: rgb(136, 0, 41);
+}
+
+#space{
+    width: 100%;
+    height: 300px;
+}
+}

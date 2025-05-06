@@ -1,0 +1,415 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Secular+One&display=swap');
+@import url(/Style/header.css);
+@import url(/Style/chat.css);
+
+@media (width >= 700px){
+    .body{
+
+        font-family: var(--ff);
+        font-weight: var(--fw);
+        font-style: var(--fs);
+        background-color:var(--clr-body);
+        cursor: default;
+        grid-template-areas:
+        
+            'welcome welcome welcome welcome welcome welcome' 
+            'aside main main main main main'
+            'aside main main main main main' 
+            'aside main main main main main'
+            'footer footer footer footer footer footer'
+            
+        
+    }
+
+    .grid{
+        display: grid;   
+    }
+
+    a{
+        text-decoration: none;
+    }
+
+
+
+
+    #welcome{
+        width: 100%;
+        height: 400px;
+        
+        position: relative;
+        margin-top: 3%;
+        grid-area: welcome;
+        background-image: url(/Style/images/Welcome.jpeg) ;
+        background-size: cover;  
+    }
+
+    #welcome > div > a{
+        font-weight: bold;
+        font-size: 40px;
+        margin: auto;
+        background-color: rgba(230, 211, 150, 0.815);
+        border-radius: 100px;
+        border: 2px solid rgb(13, 13, 13);
+        padding: 015px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        color: black;
+
+    
+    }
+
+    #welcome > div > a:hover{
+        transition: linear 0.25s;
+        filter:brightness(70%)
+    }
+
+    #title1{
+        color: rgb(35, 31, 32);
+        position: absolute;
+        font-size: 110px;
+        top: 5%;
+        left: 50%;
+    }
+
+    #title2{
+        color: rgb(35, 31, 32);
+        position: absolute;
+        font-size: 110px;
+        top: 25%;
+        left: 30%;
+        
+    }
+
+    #welcome > img{
+    
+        position: absolute;
+        width: 400px;
+        top: 45%;
+        left: 40%;
+    }
+
+    #welcome > div{
+        
+        position: absolute;
+        width: 100%;
+        height: 20%;
+        grid-template-columns: 1fr 1fr ;
+        bottom: 5%;
+    }
+
+    #main{
+        grid-area: main;
+        height: 60%;
+        
+    }
+
+    #main > div{
+        grid-template-columns: 1fr 1fr 1fr;
+        width: 100%;
+        height: 70%;
+        gap: 3%;
+        padding: 5% 15%;
+        
+    }
+
+    .imgContain{
+        
+        width: 100%;
+        height: 100%;
+        border-radius: 10px;
+        overflow: hidden; 
+        transition: all 1.1s; 
+        text-align: center;   
+    }
+
+    .imgContain > div{
+        width: 100%;
+        height: 100%; 
+        background-color: rgba(229, 216, 103, 0.705);     
+    }
+
+    .hoverEffect{
+        position: relative;
+        width: 100%;
+        height: 100%;   
+        color: rgb(77, 72, 34);
+    }
+
+    .img-effect{
+
+        object-fit: cover;
+        width: 100%;
+        height: 100%;
+        transition: all 1.1s;
+    }
+
+
+    .titleMove{
+        direction: rtl;
+        position: absolute;
+        font-size: 35px;
+        right: 10%;
+        bottom: 30%;
+        transform: translateY(1000%);
+        opacity: 0%;
+        transition: ease 1.1s;
+    }
+
+
+
+
+    .textMove{
+        direction: rtl;
+        padding: 8%;
+        font-size: 20px;
+        position: absolute; 
+        top: 70%;
+        transform: translateY(1000%);
+        opacity: 0%;
+        transition: ease 1.1s;
+        
+    }
+
+    .hoverEffect:hover > .img-effect{
+        transform: scale(1.2);
+        opacity: 30%;
+    }
+
+    .hoverEffect:hover > .titleMove{
+        transform: translateY(0%);
+        opacity: 100%;
+    }
+
+    .hoverEffect:hover > .textMove{
+        
+        transform: translateY(0%);
+        opacity: 100%;
+    }
+
+
+    .midle {
+        
+        height: 30%;
+        padding: 0% 10%;
+        
+    }
+
+    .midle > div {  
+        width: 100%;
+        height: 100%; 
+        background-color: rgba(229, 216, 103, 0.705);
+    }
+
+    .titleMoveMidle{
+        direction: rtl;
+        position: absolute;
+        font-size: 40px;
+        right: 10%;
+        bottom: 60%;
+        transform: translateY(1000%);
+        opacity: 0%;
+        transition: ease 1.1s;
+    }
+
+    .textMoveMidle{
+        direction: rtl;
+        padding: 8%;
+        font-size: 25px;
+        position: absolute; 
+        top: 30%;
+        transform: translateY(600%);
+        opacity: 0%;
+        transition: ease 1.1s;
+        
+    }
+
+    .hoverEffect:hover > .titleMoveMidle{
+        transform: translateY(0%);
+        opacity: 100%;
+    }
+
+    .hoverEffect:hover > .textMoveMidle{
+        
+        transform: translateY(0%);
+        opacity: 100%;
+    }
+
+
+    #aside{
+        grid-area: aside;
+        width: 250px;
+        height: 60%;	
+        background: rgb(255, 254, 248);
+        color: rgb(0, 0, 0);
+        border-right: 3px solid rgba(158, 147, 97, 0.9);
+        border-bottom: 2px solid rgba(158, 147, 97, 0.9);
+        overflow: hidden;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+        
+    }
+
+
+    .news{
+        margin: auto;
+        width: 80%;
+        height: 15%;
+        transform:translateY(700%);
+        
+        
+    }
+
+    .news >div{
+        position: relative;
+        width: 100%;
+        height: 100%;
+        overflow: hidden; 
+        border-radius: 10px;
+        box-shadow: 0px 30px 40px -25px rgb(229, 226, 226);
+    }
+
+    .news > h2{
+        text-align: center;
+        font-size: 23px;
+        direction: rtl;
+    }
+
+    #news1{
+        animation: scroll-up1 14s linear infinite;
+    }
+
+
+    #news2{
+        animation: scroll-up2 14s linear 3s infinite;
+    }
+
+    #news3{
+        animation: scroll-up3 14s linear 6s infinite;
+
+    }
+
+    .newsImg{
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        top: 0;
+
+    }
+
+    #aside:hover > div{
+        animation-play-state: paused;
+
+    }
+
+    .video:not(:hover){    
+        opacity: 0%;   
+    }
+
+    .video:hover{
+        transition: 0.1s linear 0.3s;
+        opacity: 100%; 
+
+    }
+
+    .articels{
+        background-color: antiquewhite;
+    }
+
+
+.us{
+
+    width: 700px;
+    color: rgb(9, 9, 8);
+    font-size:80px;
+    font-weight:900;
+    text-align: right;
+    float: right;
+    padding: 0% 9%;
+    margin: 2%;
+
+}
+  
+
+#about{
+    direction: rtl;
+    text-align: right;
+
+}
+
+.about{
+    line-height: 35px;
+    float: right;
+    margin: 10px;
+    color: rgb(15, 16, 14);
+    font-size:25px;
+    font-weight: 500;
+    padding: 0% 8%;
+    border:2px solid rgb(158, 147, 97, 0.9);
+    background-color: rgb(158, 147, 97, 0.9);
+    border-radius: 30px;
+}
+
+
+    #footer {
+        grid-area: footer;
+        background-color: rgb(158, 147, 97, 0.9);
+    
+    
+    }
+
+    #footer > ul {
+        grid-template-columns: repeat(3, 1fr);
+        text-align: center;
+        justify-content: space-around;
+        gap: 20px;
+        width: 50%;
+        margin-inline: auto;
+        
+
+
+    }
+
+    #footer img{
+        width: 20%;
+    } 
+
+
+    @keyframes scroll-up1 {
+        0%   {
+        transform: translateY(700%); 		
+        }
+        100% {
+        transform: translateY(-350%); 
+        }
+    }
+
+    @keyframes scroll-up2 {
+        0%   {
+        transform: translateY(700%); 		
+        }
+        100% {
+        transform: translateY(-350%); 
+        }
+    }
+
+    @keyframes scroll-up3 {
+        0%   {
+        transform: translateY(700%); 		
+        }
+        100% {
+        transform: translateY(-350%); 
+        }
+    }
+
+    @keyframes mainTitle {
+        0%{
+            transform: translateY(0rem);
+        }
+        100%{
+            transform: translateY(10rem);
+        }
+    }
+
+}

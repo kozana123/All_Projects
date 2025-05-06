@@ -1,0 +1,287 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Secular+One&display=swap');
+@import url(/Style/header.css);
+@import url(/Style/reset.css);
+@import url(/Style/var.css);
+@import url(/Style/chat.css);
+
+
+.grid{
+    display: grid;
+    font-family: "Rubik Doodle Shadow", system-ui;
+    font-weight: 900;
+    font-style: normal
+}
+
+
+
+body{
+    font-family: var(--ff);
+    font-weight: var(--fw);
+    font-style: var(--fs);
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  
+}
+
+
+  
+
+.cta {
+    z-index: 0;
+    margin-top: 13px;
+    width: 100%;
+    height: 50px;
+    position: relative;
+    text-align: left ;
+    padding: 80px;
+    font-family: "Truculenta", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+    
+
+   
+  }
+  
+  .cta span {
+    padding-bottom: 7px;
+    letter-spacing: 4px;
+    font-size: 40px;
+    padding-right: 15px;
+    text-transform: uppercase;
+    
+     
+  }
+  
+  .cta svg {
+    transform: translateX(-8px);
+    transition: all 0.1s ease;
+  }
+  
+  .cta:hover svg {
+    transform: translateX(0);
+  }
+  
+  .cta:active svg {
+    transform: scale(0.9);
+  }
+  
+  .hover-underline-animation {
+    position: relative;
+    color: black;
+    
+   
+  }
+      
+    .hover-underline-animation:after {
+        content: "";
+        position: absolute;
+        width: 200%;
+        transform: scaleX(0);
+        height: 2px;
+        bottom: 0;
+        left: 0;
+        background-color: #000000;
+        transform-origin: bottom right;
+        transition: transform 0.50s ease-in;
+    }
+   
+  .cta:hover .hover-underline-animation:after {
+    transform: scaleX(0.7);
+    transform-origin: bottom left;
+  }
+  
+  
+
+.container {
+    width: 100%;
+    height: 100%;
+    --size: 150px; /* control the size */
+    --color: #6d95c2;
+  
+    background: radial-gradient(
+        circle at 15% 30%,
+        transparent 40%,
+        var(--color) 41%
+      ),
+      radial-gradient(circle at 85% 30%, transparent 40%, var(--color) 41%),
+      radial-gradient(circle at 50% 70%, transparent 40%, var(--color) 41%),
+      radial-gradient(circle at 15% 70%, transparent 40%, var(--color) 41%),
+      radial-gradient(circle at 85% 70%, transparent 40%, var(--color) 41%),
+      linear-gradient(
+        45deg,
+        var(--color) 25%,
+        rgba(0, 0, 0, 0.067) 0,
+        rgba(0, 0, 0, 0.067) 50%,
+        var(--color) 0,
+        var(--color) 75%,
+        #1111 0,
+        #1111 100%,
+        var(--color) 0
+      );
+    background-size: var(--size) var(--size);
+  }
+
+#ul{
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+
+    padding: 8%;
+    gap: 2% 8%
+
+
+}
+
+
+
+
+#ul > li > img{
+    width: 100%;
+    height: 70%;
+    border-radius: 70px;
+    object-fit: cover;
+}
+
+nav > ul> li> label{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    margin: auto;
+    width: fit-content;
+    border-radius: 100px;
+    padding-inline: 13px;
+
+
+}
+ 
+
+.button {
+    --width: 150px;
+    --height: 55px;
+    --tooltip-height: 35px;
+    --tooltip-width: 90px;
+    --gap-between-tooltip-to-button: 18px;
+    --button-color: #c2dfb3c7;
+    --tooltip-color: #fff;
+    width: var(--width);
+    height: var(--height);
+    background: var(--button-color);
+    position: relative;
+    text-align: center;
+    border-radius: 0.45em;
+    transition:  0.3s;
+  }
+
+  .text{
+    font-family: "Rubik Doodle Shadow", system-ui;
+    font-weight: 900;
+    font-style: normal;
+    
+  }
+  
+  .button::before {
+    position: absolute;
+    content: attr(data-tooltip);
+    width: var(--tooltip-width);
+    height: var(--tooltip-height);
+    background-color: #3a4f6e;
+    font-size: 1.5rem;
+    color: #e2e7ec;
+    border-radius: .90em;
+    line-height: var(--tooltip-height);
+    bottom: calc(var(--height) + var(--gap-between-tooltip-to-button) + 10px);
+    left: calc(50% - var(--tooltip-width) / 2);
+   
+  }
+  
+  .button::after {
+    position: absolute;
+    content: '';
+    width: 0;
+    height: 0;
+    border: 10px solid transparent;
+    border-top-color: #f6f1f1;
+    left: calc(50% - 10px);
+    bottom: calc(100% + var(--gap-between-tooltip-to-button) - 10px);
+  }
+ 
+  .button{
+    font-family: "Rubik Doodle Shadow", system-ui;
+    font-weight: 900;
+    font-style: normal
+    b
+  }
+  
+  .button::after,.button::before {
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.5s;
+  }
+  
+  .text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+  }
+  
+  .button-wrapper,.text,.icon {
+    overflow: hidden;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    color: #fff;
+  }
+  
+  .text {
+    top: 0
+  }
+  
+  .text,.icon {
+    transition: top 0.5s;
+  }
+  
+  .icon {
+    color: #fff;
+    top: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .icon svg {
+    width: 24px;
+    height: 24px;
+  }
+  
+  .button:hover {
+    background: #070808;
+  }
+  
+  .button:hover .text {
+    top: -100%;
+  }
+  
+  .button:hover .icon {
+    top: 0;
+  }
+  
+  .button:hover:before,.button:hover:after {
+    opacity: 1;
+    visibility: visible;
+  }
+  
+  .button:hover:after {
+    bottom: calc(var(--height) + var(--gap-between-tooltip-to-button) - 20px);
+  }
+  
+  .button:hover:before {
+    bottom: calc(var(--height) + var(--gap-between-tooltip-to-button));
+  }
