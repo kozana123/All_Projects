@@ -1,0 +1,40 @@
+﻿<Window x:Class="DivingProgram.Windows.AddDiveWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DivingProgram.Windows"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        mc:Ignorable="d"
+        Title="AddDiveWindow" Height="730" Width="1370">
+    <Grid>
+        <Button Content="X" HorizontalAlignment="Left" Margin="1276,42,0,0" VerticalAlignment="Top" FontSize="30" Width="42" Click="BtnCloseProgrem"/>
+        <Button Content="←" HorizontalAlignment="Left" Margin="46,42,0,0" VerticalAlignment="Top" FontSize="30" Width="42" Click="BtnPreviosPage" />
+        <ListBox x:Name="clubsListBox" Margin="192,73,0,0" Width="250" HorizontalAlignment="Left" VerticalAlignment="Top"  FontSize="16" 
+         RenderTransformOrigin="0.5,0.5" SelectionChanged="ChoosenClub">
+        </ListBox>
+        <Label Content="Club: " HorizontalAlignment="Left" Margin="145,64,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label Content="Dive Date: " HorizontalAlignment="Left" Margin="477,67,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <DatePicker x:Name="diveDate" HorizontalAlignment="Left" Margin="553,68,0,0" VerticalAlignment="Top"/>
+        <Label Content="Time Started: " HorizontalAlignment="Left" Margin="478,134,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBox x:Name="startHourText" HorizontalAlignment="Left" Margin="575,139,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="30"/>
+        <Label Content=":" HorizontalAlignment="Left" Margin="610,134,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBox x:Name="startMinText" HorizontalAlignment="Left" Margin="628,138,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="30"/>
+        <Label Content="Time Ended: " HorizontalAlignment="Left" Margin="484,168,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBox x:Name="EndHourText" HorizontalAlignment="Left" Margin="575,173,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="30"/>
+        <Label Content=":" HorizontalAlignment="Left" Margin="610,168,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBox x:Name="EndMinText" HorizontalAlignment="Left" Margin="628,172,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="30"/>
+        <Label Content="Water temperature: " HorizontalAlignment="Left" Margin="707,67,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBox x:Name="waterTempText" HorizontalAlignment="Left" Margin="839,73,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="30"/>
+        <Label Content="Water Condition: " HorizontalAlignment="Left" Margin="710,141,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <ListBox x:Name="genderList" Margin="822,146,0,0" Width="40" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <ListBoxItem Content="Tide" />
+            <ListBoxItem Content="Low" />
+        </ListBox>
+        <Label Content="Diving Sites:" HorizontalAlignment="Left" Margin="902,67,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <ListBox x:Name="sitesList" Margin="994,78,0,0" Width="220" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="16" Visibility="Visible">
+        </ListBox>
+        <Rectangle HorizontalAlignment="Center" Height="264" Margin="0,42,0,0" Stroke="Black" VerticalAlignment="Top" Width="1138"/>
+
+    </Grid>
+</Window>

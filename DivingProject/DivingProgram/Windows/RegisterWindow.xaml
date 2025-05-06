@@ -1,0 +1,47 @@
+﻿<Window x:Class="DivingProgram.RegisterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="RegisterWindow" Height="946" Width="800">
+
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <Grid>
+            <TextBox x:Name="email" HorizontalAlignment="Left" Margin="309,239,0,0" VerticalAlignment="Top" Width="120"/>
+            <TextBox x:Name="lastName" HorizontalAlignment="Left" Margin="309,155,0,0" VerticalAlignment="Top" Width="120"/>
+            <TextBox x:Name="firstName" HorizontalAlignment="Left" Margin="309,121,0,0" VerticalAlignment="Top" Width="120"/>
+            <DatePicker x:Name="userBirthDate" HorizontalAlignment="Left" Margin="309,193,0,0" VerticalAlignment="Top"/>
+            <TextBlock HorizontalAlignment="Left" Margin="224,121,0,0" TextWrapping="Wrap" Text="First Name:" VerticalAlignment="Top"/>
+            <TextBlock HorizontalAlignment="Left" Margin="224,155,0,0" TextWrapping="Wrap" Text="Last Name:" VerticalAlignment="Top"/>
+            <TextBlock HorizontalAlignment="Left" Margin="224,201,0,0" TextWrapping="Wrap" Text="BirthDay:" VerticalAlignment="Top"/>
+            <TextBlock HorizontalAlignment="Left" Margin="224,241,0,0" TextWrapping="Wrap" Text="Email:" VerticalAlignment="Top"/>
+            <TextBlock HorizontalAlignment="Left" Margin="224,280,0,0" TextWrapping="Wrap" Text="Password:" VerticalAlignment="Top"/>
+            <PasswordBox x:Name="password" HorizontalAlignment="Left" Margin="309,279,0,0" VerticalAlignment="Top" Width="120"/>
+            <Button Content="Register" HorizontalAlignment="Left" Margin="320,854,0,0" VerticalAlignment="Top" Click="RegisterButton_Click"/>
+            <TextBox x:Name="numOfDives" HorizontalAlignment="Left" Margin="309,322,0,0" VerticalAlignment="Top" Width="59"/>
+            <TextBlock HorizontalAlignment="Left" Margin="135,324,0,0" TextWrapping="Wrap" Text="Enter number of past dives:" VerticalAlignment="Top" Width="172"/>
+            <ListBox x:Name="rankListBox" Margin="292,432,0,0" Width="156" HorizontalAlignment="Left" VerticalAlignment="Top" SelectionChanged="chooseRank">
+
+            </ListBox>
+
+            <TextBlock HorizontalAlignment="Left" Margin="177,399,0,0" TextWrapping="Wrap" Text="Choose your diver grade level:" VerticalAlignment="Top"/>
+            <TextBlock HorizontalAlignment="Left" Margin="86,593,0,0" TextWrapping="Wrap" Text="Enter date of receipt of your grade:" VerticalAlignment="Top"/>
+            <DatePicker Name="gradeReceiptDate" HorizontalAlignment="Left" Margin="297,589,0,0" VerticalAlignment="Top"/>
+            <TextBlock HorizontalAlignment="Left" Margin="178,650,0,0" TextWrapping="Wrap" Text="Choose the club you have received your grade from:" VerticalAlignment="Top" Width="318"/>
+
+            <ListBox x:Name="clubListBox" Margin="187,683,313,243" Width="300">
+
+            </ListBox>
+
+            <Rectangle HorizontalAlignment="Left" Height="53" Margin="505,420,0,0" Stroke="Black" VerticalAlignment="Top" Width="172"/>
+            <DatePicker Name="dateStart" HorizontalAlignment="Left" Margin="526,435,0,0" VerticalAlignment="Top" Height="23" Visibility="Hidden"/>
+            <Rectangle HorizontalAlignment="Left" Height="53" Margin="505,511,0,0" Stroke="Black" VerticalAlignment="Top" Width="172"/>
+            <DatePicker Name="dateFinish" HorizontalAlignment="Left" Margin="526,526,0,0" VerticalAlignment="Top" Visibility="Hidden"/>
+            <Label Content="Begin Work" HorizontalAlignment="Left" Margin="505,389,0,0" VerticalAlignment="Top"/>
+            <Label Content="Finish Work" HorizontalAlignment="Left" Margin="505,480,0,0" VerticalAlignment="Top"/>
+
+            <Button Content="X" HorizontalAlignment="Left" Margin="704,36,0,0" VerticalAlignment="Top" FontSize="30" Width="42" Click="BtnCloseProgrem"/>
+            <TextBlock HorizontalAlignment="Left" Margin="189,364,0,0" TextWrapping="Wrap" Text="Add Your Image:" VerticalAlignment="Top" />
+            <Button Content="Choose From Files" HorizontalAlignment="Left" Margin="299,362,0,0" VerticalAlignment="Top" Click="ChoosePicture"/>
+        </Grid>
+    </ScrollViewer>
+
+</Window>

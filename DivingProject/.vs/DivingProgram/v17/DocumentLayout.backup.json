@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dor Mesika\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\DivingProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E51DCA4E-3B29-40D1-85FE-392D74CDA633}|DivingProgram\\DivingProgram.csproj|c:\\users\\dor mesika\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\divingprogram\\divingprogram\\windows\\editprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E51DCA4E-3B29-40D1-85FE-392D74CDA633}|DivingProgram\\DivingProgram.csproj|solutionrelative:divingprogram\\windows\\editprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51DCA4E-3B29-40D1-85FE-392D74CDA633}|DivingProgram\\DivingProgram.csproj|c:\\users\\dor mesika\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\divingprogram\\divingprogram\\windows\\searchclubwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E51DCA4E-3B29-40D1-85FE-392D74CDA633}|DivingProgram\\DivingProgram.csproj|solutionrelative:divingprogram\\windows\\searchclubwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51DCA4E-3B29-40D1-85FE-392D74CDA633}|DivingProgram\\DivingProgram.csproj|c:\\users\\dor mesika\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\divingprogram\\divingprogram\\classes\\systemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E51DCA4E-3B29-40D1-85FE-392D74CDA633}|DivingProgram\\DivingProgram.csproj|solutionrelative:divingprogram\\classes\\systemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51DCA4E-3B29-40D1-85FE-392D74CDA633}|DivingProgram\\DivingProgram.csproj|c:\\users\\dor mesika\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\divingprogram\\divingprogram\\windows\\adddivewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E51DCA4E-3B29-40D1-85FE-392D74CDA633}|DivingProgram\\DivingProgram.csproj|solutionrelative:divingprogram\\windows\\adddivewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51DCA4E-3B29-40D1-85FE-392D74CDA633}|DivingProgram\\DivingProgram.csproj|c:\\users\\dor mesika\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\divingprogram\\divingprogram\\classes\\divingsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E51DCA4E-3B29-40D1-85FE-392D74CDA633}|DivingProgram\\DivingProgram.csproj|solutionrelative:divingprogram\\classes\\divingsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51DCA4E-3B29-40D1-85FE-392D74CDA633}|DivingProgram\\DivingProgram.csproj|c:\\users\\dor mesika\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\divingprogram\\divingprogram\\windows\\adddivewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E51DCA4E-3B29-40D1-85FE-392D74CDA633}|DivingProgram\\DivingProgram.csproj|solutionrelative:divingprogram\\windows\\adddivewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51DCA4E-3B29-40D1-85FE-392D74CDA633}|DivingProgram\\DivingProgram.csproj|c:\\users\\dor mesika\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\divingprogram\\divingprogram\\windows\\systemwindowguide.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E51DCA4E-3B29-40D1-85FE-392D74CDA633}|DivingProgram\\DivingProgram.csproj|solutionrelative:divingprogram\\windows\\systemwindowguide.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51DCA4E-3B29-40D1-85FE-392D74CDA633}|DivingProgram\\DivingProgram.csproj|c:\\users\\dor mesika\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\divingprogram\\divingprogram\\windows\\divingsiteswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E51DCA4E-3B29-40D1-85FE-392D74CDA633}|DivingProgram\\DivingProgram.csproj|solutionrelative:divingprogram\\windows\\divingsiteswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditProfileWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dor Mesika\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\DivingProgram\\DivingProgram\\Windows\\EditProfileWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DivingProgram\\Windows\\EditProfileWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Dor Mesika\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\DivingProgram\\DivingProgram\\Windows\\EditProfileWindow.xaml.cs",
+              "RelativeToolTip": "DivingProgram\\Windows\\EditProfileWindow.xaml.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowEsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T15:54:07.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SystemManager.cs",
+              "DocumentMoniker": "C:\\Users\\Dor Mesika\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\DivingProgram\\DivingProgram\\Classes\\SystemManager.cs",
+              "RelativeDocumentMoniker": "DivingProgram\\Classes\\SystemManager.cs",
+              "ToolTip": "C:\\Users\\Dor Mesika\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\DivingProgram\\DivingProgram\\Classes\\SystemManager.cs",
+              "RelativeToolTip": "DivingProgram\\Classes\\SystemManager.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwBMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T12:05:29.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchClubWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dor Mesika\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\DivingProgram\\DivingProgram\\Windows\\SearchClubWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DivingProgram\\Windows\\SearchClubWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Dor Mesika\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\DivingProgram\\DivingProgram\\Windows\\SearchClubWindow.xaml.cs",
+              "RelativeToolTip": "DivingProgram\\Windows\\SearchClubWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAFAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:49:40.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DivingSitesWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dor Mesika\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\DivingProgram\\DivingProgram\\Windows\\DivingSitesWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DivingProgram\\Windows\\DivingSitesWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Dor Mesika\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\DivingProgram\\DivingProgram\\Windows\\DivingSitesWindow.xaml.cs",
+              "RelativeToolTip": "DivingProgram\\Windows\\DivingSitesWindow.xaml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:47:45.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddDiveWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Dor Mesika\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\DivingProgram\\DivingProgram\\Windows\\AddDiveWindow.xaml",
+              "RelativeDocumentMoniker": "DivingProgram\\Windows\\AddDiveWindow.xaml",
+              "ToolTip": "C:\\Users\\Dor Mesika\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\DivingProgram\\DivingProgram\\Windows\\AddDiveWindow.xaml",
+              "RelativeToolTip": "DivingProgram\\Windows\\AddDiveWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T10:21:31.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DivingSession.cs",
+              "DocumentMoniker": "C:\\Users\\Dor Mesika\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\DivingProgram\\DivingProgram\\Classes\\DivingSession.cs",
+              "RelativeDocumentMoniker": "DivingProgram\\Classes\\DivingSession.cs",
+              "ToolTip": "C:\\Users\\Dor Mesika\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\DivingProgram\\DivingProgram\\Classes\\DivingSession.cs",
+              "RelativeToolTip": "DivingProgram\\Classes\\DivingSession.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:31:16.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddDiveWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dor Mesika\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\DivingProgram\\DivingProgram\\Windows\\AddDiveWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DivingProgram\\Windows\\AddDiveWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Dor Mesika\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\DivingProgram\\DivingProgram\\Windows\\AddDiveWindow.xaml.cs",
+              "RelativeToolTip": "DivingProgram\\Windows\\AddDiveWindow.xaml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAuwEUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:21:30.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SystemWindowGuide.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dor Mesika\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\DivingProgram\\DivingProgram\\Windows\\SystemWindowGuide.xaml.cs",
+              "RelativeDocumentMoniker": "DivingProgram\\Windows\\SystemWindowGuide.xaml.cs",
+              "ToolTip": "C:\\Users\\Dor Mesika\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\DivingProgram\\DivingProgram\\Windows\\SystemWindowGuide.xaml.cs",
+              "RelativeToolTip": "DivingProgram\\Windows\\SystemWindowGuide.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T11:21:45.327Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

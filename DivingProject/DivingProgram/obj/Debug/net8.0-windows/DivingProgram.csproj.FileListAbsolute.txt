@@ -1,0 +1,93 @@
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\bin\Debug\net8.0-windows\DivingProgram.exe
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\bin\Debug\net8.0-windows\DivingProgram.deps.json
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\bin\Debug\net8.0-windows\DivingProgram.runtimeconfig.json
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\bin\Debug\net8.0-windows\DivingProgram.dll
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\bin\Debug\net8.0-windows\DivingProgram.pdb
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\RegisterWindow.baml
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\AddDiveWindow.g.cs
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\DivingSitesWindow.g.cs
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\EditProfileWindow.g.cs
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\MainWindow.g.cs
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\RegisterWindow.g.cs
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\SearchClubWindow.g.cs
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\ShowRankDetailsWindow.g.cs
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\SystemWindowGuide.g.cs
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\SystemWintdow.g.cs
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\DivingProgram_MarkupCompile.cache
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\DivingProgram_MarkupCompile.lref
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\AddDiveWindow.baml
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\DivingSitesWindow.baml
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\EditProfileWindow.baml
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\MainWindow.baml
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\SearchClubWindow.baml
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\ShowRankDetailsWindow.baml
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\SystemWindowGuide.baml
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\SystemWintdow.baml
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\DivingProgram.g.resources
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\DivingProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\DivingProgram.AssemblyInfoInputs.cache
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\DivingProgram.AssemblyInfo.cs
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\DivingProgram.csproj.CoreCompileInputs.cache
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\DivingProgram.sourcelink.json
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\DivingProgram.dll
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\refint\DivingProgram.dll
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\DivingProgram.pdb
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\DivingProgram.genruntimeconfig.cache
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\ref\DivingProgram.dll
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\bin\Debug\net8.0-windows\DivingProgram.exe
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\bin\Debug\net8.0-windows\DivingProgram.deps.json
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\bin\Debug\net8.0-windows\DivingProgram.runtimeconfig.json
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\bin\Debug\net8.0-windows\DivingProgram.dll
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\bin\Debug\net8.0-windows\DivingProgram.pdb
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\RegisterWindow.baml
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\AddDiveWindow.g.cs
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\DivingSitesWindow.g.cs
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\EditProfileWindow.g.cs
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\MainWindow.g.cs
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\RegisterWindow.g.cs
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\SearchClubWindow.g.cs
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\ShowRankDetailsWindow.g.cs
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\SystemWindowGuide.g.cs
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\SystemWintdow.g.cs
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\DivingProgram_MarkupCompile.cache
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\DivingProgram_MarkupCompile.lref
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\AddDiveWindow.baml
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\DivingSitesWindow.baml
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\EditProfileWindow.baml
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\MainWindow.baml
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\SearchClubWindow.baml
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\ShowRankDetailsWindow.baml
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\SystemWindowGuide.baml
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\Windows\SystemWintdow.baml
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\DivingProgram.g.resources
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\DivingProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\DivingProgram.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\DivingProgram.AssemblyInfo.cs
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\DivingProgram.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\DivingProgram.sourcelink.json
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\DivingProgram.dll
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\refint\DivingProgram.dll
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\DivingProgram.pdb
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\DivingProgram.genruntimeconfig.cache
+C:\Users\User\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\ref\DivingProgram.dll
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\DivingProgram.csproj.AssemblyReference.cache
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.dll
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\bin\Debug\net8.0-windows\Xceed.Wpf.Toolkit.dll
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\bin\Debug\net8.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\bin\Debug\net8.0-windows\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\bin\Debug\net8.0-windows\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\bin\Debug\net8.0-windows\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\bin\Debug\net8.0-windows\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\bin\Debug\net8.0-windows\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\bin\Debug\net8.0-windows\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\bin\Debug\net8.0-windows\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\bin\Debug\net8.0-windows\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\bin\Debug\net8.0-windows\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\bin\Debug\net8.0-windows\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\bin\Debug\net8.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dor Mesika\Desktop\תכנות מונחה עצמים\DivingProgram\DivingProgram\obj\Debug\net8.0-windows\DivingPr.D7181C0B.Up2Date

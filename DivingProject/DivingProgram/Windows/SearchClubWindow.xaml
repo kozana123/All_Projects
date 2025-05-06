@@ -1,0 +1,42 @@
+﻿<Window x:Class="DivingProgram.SearchClubWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DivingProgram"
+        mc:Ignorable="d"
+        Title="SearchClubWindow" Height="730" Width="1370">
+    <Grid>
+        <ListBox x:Name="clubsListBox" Margin="287,203,0,0" Width="250" HorizontalAlignment="Left" VerticalAlignment="Top" SelectionChanged="ChoosenClub" FontSize="16" 
+                 RenderTransformOrigin="0.5,0.5">
+        </ListBox>
+
+        <TextBox x:Name="clubNameSearchText" HorizontalAlignment="Left" Margin="251,80,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="210" FontSize="20"/>
+        <TextBlock HorizontalAlignment="Left" Margin="110,81,0,0" TextWrapping="Wrap" Text="Club Name: " VerticalAlignment="Top" FontSize="20">
+
+        </TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="354,157,0,0" TextWrapping="Wrap" Text="Clubs Found" VerticalAlignment="Top" TextDecorations="Underline" FontWeight="Bold" FontSize="20"/>
+        <Button Content="Search" HorizontalAlignment="Left" Margin="489,79,0,0" VerticalAlignment="Top" Click="SearchClubBtn" FontSize="20"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="86,157,0,0" TextWrapping="Wrap" Text="Search By County" VerticalAlignment="Top" FontSize="20" FontWeight="Bold" TextDecorations="Underline"/>
+
+        <ListBox x:Name="countryList" Margin="118,203,0,0" Width="100" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="16" SelectionChanged="ChoosenCountry" >
+
+        </ListBox>
+        <Rectangle HorizontalAlignment="Left" Height="506" Margin="629,120,0,0" Stroke="Black" VerticalAlignment="Top" Width="689"/>
+        <TextBlock x:Name="addressClubText" HorizontalAlignment="Left" Margin="832,168,0,0" TextWrapping="Wrap" VerticalAlignment="Top"  FontSize="20"/>
+        <Label Content="Address:" HorizontalAlignment="Left" Margin="685,163,0,0" VerticalAlignment="Top" FontWeight="Bold"   TextBlock.FontSize="20"/>
+        <TextBlock x:Name="phoneNumberText" HorizontalAlignment="Left" Margin="875,247,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"  FontSize="20"/>
+        <Label Content="Phone Number:" HorizontalAlignment="Left" Margin="685,242,0,0" VerticalAlignment="Top" FontWeight="Bold"  TextBlock.FontSize="20"/>
+        <TextBlock x:Name="contactText" HorizontalAlignment="Left" Margin="832,336,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"  FontSize="20"/>
+        <Label Content="Contact:" HorizontalAlignment="Left" Margin="683,331,0,0" VerticalAlignment="Top" FontWeight="Bold" TextBlock.FontSize="20"/>
+        <TextBlock x:Name="emailText" HorizontalAlignment="Left" Margin="808,489,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"  FontSize="20"/>
+        <Label Content="Email:" HorizontalAlignment="Left" Margin="685,484,0,0" VerticalAlignment="Top" FontWeight="Bold" TextBlock.FontSize="20"/>
+        <TextBlock x:Name="licenseText" HorizontalAlignment="Left" Margin="823,414,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontSize="20"/>
+        <Label Content="License:" HorizontalAlignment="Left" Margin="685,409,0,0" VerticalAlignment="Top" FontWeight="Bold" TextBlock.FontSize="20"/>
+        <TextBlock x:Name="webSiteText" HorizontalAlignment="Left" Margin="828,554,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"  FontSize="20"/>
+        <Label Content="WebSite:" HorizontalAlignment="Left" Margin="685,549,0,0" VerticalAlignment="Top" FontWeight="Bold"  TextBlock.FontSize="20"/>
+        <Button Content="X" HorizontalAlignment="Left" Margin="1276,42,0,0" VerticalAlignment="Top" FontSize="30" Width="42" Click="BtnCloseProgrem"/>
+        <Button Content="←" HorizontalAlignment="Left" Margin="46,42,0,0" VerticalAlignment="Top" FontSize="30" Width="42" Click="BtnPreviosPage" />
+    </Grid>
+</Window>
