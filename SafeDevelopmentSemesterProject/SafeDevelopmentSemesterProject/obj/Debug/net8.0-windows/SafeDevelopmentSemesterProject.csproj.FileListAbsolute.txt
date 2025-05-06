@@ -1,0 +1,160 @@
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\ProfileWindow.g.cs
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\RegisterWindow.g.cs
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\StartChet.g.cs
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\SafeDevelopmentSemesterProject_MarkupCompile.cache
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\SafeDevelopmentSemesterProject_MarkupCompile.lref
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\SafeDevelopmentSemesterProject.exe
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\SafeDevelopmentSemesterProject.deps.json
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\SafeDevelopmentSemesterProject.runtimeconfig.json
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\SafeDevelopmentSemesterProject.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\SafeDevelopmentSemesterProject.pdb
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\ProfileWindow.baml
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\RegisterWindow.baml
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\StartChet.baml
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\SafeDevelopmentSemesterProject.g.resources
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\SafeDevelopmentSemesterProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\SafeDevelopmentSemesterProject.AssemblyInfoInputs.cache
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\SafeDevelopmentSemesterProject.AssemblyInfo.cs
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\SafeDevelopmentSemesterProject.csproj.CoreCompileInputs.cache
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\SafeDevelopmentSemesterProject.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\refint\SafeDevelopmentSemesterProject.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\SafeDevelopmentSemesterProject.pdb
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\SafeDevelopmentSemesterProject.genruntimeconfig.cache
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\ref\SafeDevelopmentSemesterProject.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\editProfile.g.cs
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\editProfile.baml
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\SafeDevelopmentSemesterProject.csproj.AssemblyReference.cache
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\SafeDeve.FCAFD87E.Up2Date
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\ForgotPasswordWindow.g.cs
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\ForgotPasswordWindow.baml
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\CreateNewPasswordWindow.g.cs
+C:\Users\Dor Mesika\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\CreateNewPasswordWindow.baml
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\SafeDevelopmentSemesterProject.exe
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\SafeDevelopmentSemesterProject.deps.json
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\SafeDevelopmentSemesterProject.runtimeconfig.json
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\SafeDevelopmentSemesterProject.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\SafeDevelopmentSemesterProject.pdb
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\SafeDevelopmentSemesterProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\CreateNewPasswordWindow.g.cs
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\editProfile.g.cs
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\ForgotPasswordWindow.g.cs
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\ProfileWindow.g.cs
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\RegisterWindow.g.cs
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\StartChet.g.cs
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\SafeDevelopmentSemesterProject_MarkupCompile.cache
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\SafeDevelopmentSemesterProject_MarkupCompile.lref
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\CreateNewPasswordWindow.baml
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\editProfile.baml
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\ForgotPasswordWindow.baml
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\ProfileWindow.baml
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\RegisterWindow.baml
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\StartChet.baml
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\SafeDevelopmentSemesterProject.g.resources
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\SafeDevelopmentSemesterProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\SafeDevelopmentSemesterProject.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\SafeDevelopmentSemesterProject.AssemblyInfo.cs
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\SafeDevelopmentSemesterProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\SafeDeve.FCAFD87E.Up2Date
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\SafeDevelopmentSemesterProject.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\refint\SafeDevelopmentSemesterProject.dll
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\SafeDevelopmentSemesterProject.pdb
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\SafeDevelopmentSemesterProject.genruntimeconfig.cache
+C:\Users\User\Desktop\פיתוח מאובטח\SafeDevelopmentSemesterProject\SafeDevelopmentSemesterProject\obj\Debug\net8.0-windows\ref\SafeDevelopmentSemesterProject.dll

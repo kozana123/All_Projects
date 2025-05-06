@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dor Mesika\\Desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\SafeDevelopmentSemesterProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA46EE9-4DCD-4C1A-B987-F68DFCAAE6D5}|SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject.csproj|c:\\users\\dor mesika\\desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\safedevelopmentsemesterproject\\safedevelopmentsemesterproject\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA46EE9-4DCD-4C1A-B987-F68DFCAAE6D5}|SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject.csproj|solutionrelative:safedevelopmentsemesterproject\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA46EE9-4DCD-4C1A-B987-F68DFCAAE6D5}|SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject.csproj|c:\\users\\dor mesika\\desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\safedevelopmentsemesterproject\\safedevelopmentsemesterproject\\editprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA46EE9-4DCD-4C1A-B987-F68DFCAAE6D5}|SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject.csproj|solutionrelative:safedevelopmentsemesterproject\\editprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA46EE9-4DCD-4C1A-B987-F68DFCAAE6D5}|SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject.csproj|c:\\users\\dor mesika\\desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\safedevelopmentsemesterproject\\safedevelopmentsemesterproject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA46EE9-4DCD-4C1A-B987-F68DFCAAE6D5}|SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject.csproj|solutionrelative:safedevelopmentsemesterproject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA46EE9-4DCD-4C1A-B987-F68DFCAAE6D5}|SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject.csproj|c:\\users\\dor mesika\\desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\safedevelopmentsemesterproject\\safedevelopmentsemesterproject\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA46EE9-4DCD-4C1A-B987-F68DFCAAE6D5}|SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject.csproj|solutionrelative:safedevelopmentsemesterproject\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA46EE9-4DCD-4C1A-B987-F68DFCAAE6D5}|SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject.csproj|c:\\users\\dor mesika\\desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\safedevelopmentsemesterproject\\safedevelopmentsemesterproject\\createnewpasswordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA46EE9-4DCD-4C1A-B987-F68DFCAAE6D5}|SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject.csproj|solutionrelative:safedevelopmentsemesterproject\\createnewpasswordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA46EE9-4DCD-4C1A-B987-F68DFCAAE6D5}|SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject.csproj|c:\\users\\dor mesika\\desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\safedevelopmentsemesterproject\\safedevelopmentsemesterproject\\forgotpasswordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA46EE9-4DCD-4C1A-B987-F68DFCAAE6D5}|SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject.csproj|solutionrelative:safedevelopmentsemesterproject\\forgotpasswordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA46EE9-4DCD-4C1A-B987-F68DFCAAE6D5}|SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject.csproj|c:\\users\\dor mesika\\desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\safedevelopmentsemesterproject\\safedevelopmentsemesterproject\\profilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA46EE9-4DCD-4C1A-B987-F68DFCAAE6D5}|SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject.csproj|solutionrelative:safedevelopmentsemesterproject\\profilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA46EE9-4DCD-4C1A-B987-F68DFCAAE6D5}|SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject.csproj|c:\\users\\dor mesika\\desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\safedevelopmentsemesterproject\\safedevelopmentsemesterproject\\profilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6FA46EE9-4DCD-4C1A-B987-F68DFCAAE6D5}|SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject.csproj|solutionrelative:safedevelopmentsemesterproject\\profilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA46EE9-4DCD-4C1A-B987-F68DFCAAE6D5}|SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject.csproj|c:\\users\\dor mesika\\desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\safedevelopmentsemesterproject\\safedevelopmentsemesterproject\\editprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6FA46EE9-4DCD-4C1A-B987-F68DFCAAE6D5}|SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject.csproj|solutionrelative:safedevelopmentsemesterproject\\editprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA46EE9-4DCD-4C1A-B987-F68DFCAAE6D5}|SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject.csproj|c:\\users\\dor mesika\\desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\safedevelopmentsemesterproject\\safedevelopmentsemesterproject\\forgotpasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6FA46EE9-4DCD-4C1A-B987-F68DFCAAE6D5}|SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject.csproj|solutionrelative:safedevelopmentsemesterproject\\forgotpasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA46EE9-4DCD-4C1A-B987-F68DFCAAE6D5}|SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject.csproj|c:\\users\\dor mesika\\desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\safedevelopmentsemesterproject\\safedevelopmentsemesterproject\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6FA46EE9-4DCD-4C1A-B987-F68DFCAAE6D5}|SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject.csproj|solutionrelative:safedevelopmentsemesterproject\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Encryption.cs",
+              "DocumentMoniker": "C:\\Users\\Dor Mesika\\Desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject\\Encryption.cs",
+              "RelativeDocumentMoniker": "SafeDevelopmentSemesterProject\\Encryption.cs",
+              "ToolTip": "C:\\Users\\Dor Mesika\\Desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject\\Encryption.cs",
+              "RelativeToolTip": "SafeDevelopmentSemesterProject\\Encryption.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBwAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:59:54.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "editProfile.xaml",
+              "DocumentMoniker": "C:\\Users\\Dor Mesika\\Desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject\\editProfile.xaml",
+              "RelativeDocumentMoniker": "SafeDevelopmentSemesterProject\\editProfile.xaml",
+              "ToolTip": "C:\\Users\\Dor Mesika\\Desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject\\editProfile.xaml",
+              "RelativeToolTip": "SafeDevelopmentSemesterProject\\editProfile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T09:05:01.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "editProfile.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dor Mesika\\Desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject\\editProfile.xaml.cs",
+              "RelativeDocumentMoniker": "SafeDevelopmentSemesterProject\\editProfile.xaml.cs",
+              "ToolTip": "C:\\Users\\Dor Mesika\\Desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject\\editProfile.xaml.cs",
+              "RelativeToolTip": "SafeDevelopmentSemesterProject\\editProfile.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowHoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:04:52.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ForgotPasswordWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Dor Mesika\\Desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject\\ForgotPasswordWindow.xaml",
+              "RelativeDocumentMoniker": "SafeDevelopmentSemesterProject\\ForgotPasswordWindow.xaml",
+              "ToolTip": "C:\\Users\\Dor Mesika\\Desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject\\ForgotPasswordWindow.xaml",
+              "RelativeToolTip": "SafeDevelopmentSemesterProject\\ForgotPasswordWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T09:04:13.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateNewPasswordWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dor Mesika\\Desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject\\CreateNewPasswordWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SafeDevelopmentSemesterProject\\CreateNewPasswordWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Dor Mesika\\Desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject\\CreateNewPasswordWindow.xaml.cs",
+              "RelativeToolTip": "SafeDevelopmentSemesterProject\\CreateNewPasswordWindow.xaml.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowBoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:03:12.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProfileWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dor Mesika\\Desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject\\ProfileWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SafeDevelopmentSemesterProject\\ProfileWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Dor Mesika\\Desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject\\ProfileWindow.xaml.cs",
+              "RelativeToolTip": "SafeDevelopmentSemesterProject\\ProfileWindow.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:59:58.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfileWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Dor Mesika\\Desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject\\ProfileWindow.xaml",
+              "RelativeDocumentMoniker": "SafeDevelopmentSemesterProject\\ProfileWindow.xaml",
+              "ToolTip": "C:\\Users\\Dor Mesika\\Desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject\\ProfileWindow.xaml",
+              "RelativeToolTip": "SafeDevelopmentSemesterProject\\ProfileWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T08:57:26.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dor Mesika\\Desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SafeDevelopmentSemesterProject\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Dor Mesika\\Desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SafeDevelopmentSemesterProject\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwEkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:47:06.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dor Mesika\\Desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SafeDevelopmentSemesterProject\\RegisterWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Dor Mesika\\Desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "SafeDevelopmentSemesterProject\\RegisterWindow.xaml.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowFAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:31:12.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ForgotPasswordWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dor Mesika\\Desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject\\ForgotPasswordWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SafeDevelopmentSemesterProject\\ForgotPasswordWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Dor Mesika\\Desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject\\ForgotPasswordWindow.xaml.cs",
+              "RelativeToolTip": "SafeDevelopmentSemesterProject\\ForgotPasswordWindow.xaml.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:01:00.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Dor Mesika\\Desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SafeDevelopmentSemesterProject\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Dor Mesika\\Desktop\\\u05E4\u05D9\u05EA\u05D5\u05D7 \u05DE\u05D0\u05D5\u05D1\u05D8\u05D7\\SafeDevelopmentSemesterProject\\SafeDevelopmentSemesterProject\\MainWindow.xaml",
+              "RelativeToolTip": "SafeDevelopmentSemesterProject\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T08:35:59.47Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
